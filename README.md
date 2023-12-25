@@ -8,7 +8,7 @@
 </p>
 
 ### About Me:
-I love turning ideas into code and building digital solutions. Currently exploring the vast world of web development and always eager to learn new technologies.
+I love turning ideas into code. Currently exploring the vast world of web development and always eager to learn new technologies.
 
    **Skills!**
    <p style="display: inline-block;" align="center">
