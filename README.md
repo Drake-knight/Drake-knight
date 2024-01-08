@@ -2,7 +2,7 @@
 
 ## Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/vishal-jakhar-207245253" target="blank">
+  <a href="https://www.linkedin.com/in/vishal-jakhar2004" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vishal-jakhar-207245253"/>
   </a>
 </p>
