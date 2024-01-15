@@ -41,7 +41,7 @@ I love turning ideas into code. Currently exploring the vast world of web develo
 
    </p>
    
-   <h2 align="center"><u>My Github Stats</u></h2>
+  <!-- <h2 align="center"><u>My Github Stats</u></h2>
    <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drake-knight&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
    <br>
@@ -50,7 +50,7 @@ I love turning ideas into code. Currently exploring the vast world of web develo
    <br>
    <br>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Drake-knight&theme=holi-theme">
-   </p>
+   </p> -->
    
    
    
