@@ -46,11 +46,6 @@
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
 
 </p>
-
-## Projects
-- [AnimePulse](https://animexpulse.vercel.app/)
-- [FormPulse](https://formpulse.vercel.app/)
-- Cooking more .......
 <h2 align="center"><u>My GitHub Stats</u></h2>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drake-knight&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
