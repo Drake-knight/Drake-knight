@@ -51,6 +51,15 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 
+## Projects
+<p align="center">
+  <a href="animepulse.tech" target="_blank">
+    <img src="https://res.cloudinary.com/dglojeutd/image/upload/v1716218240/_de09b20c-2d3e-490c-9e98-648d42232147_vto4at.jpg" alt="AnimePulse" width="300"/>
+  </a>
+  <br>
+  <b>AnimePulse</b>
+</p>
+
 </p>
 <h2 align="center"><u>My GitHub Stats</u></h2>
 <p align="center">
