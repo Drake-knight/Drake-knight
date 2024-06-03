@@ -53,7 +53,7 @@
 
 ## Projects
 <p align="center">
-  <a href="animepulse.tech" target="_blank">
+  <a href="https://animepulse.tech" target="_blank">
     <img src="https://res.cloudinary.com/dglojeutd/image/upload/v1716218240/_de09b20c-2d3e-490c-9e98-648d42232147_vto4at.jpg" alt="AnimePulse" width="300"/>
   </a>
   <br>
