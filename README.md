@@ -29,7 +29,7 @@
 
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src=" 	https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
@@ -60,7 +60,6 @@
   <b>AnimePulse</b>
 </p>
 
-</p>
 <h2 align="center"><u>My GitHub Stats</u></h2>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drake-knight&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
@@ -70,4 +69,4 @@
   <br>
   <br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Drake-knight&theme=holi-theme">
-</p> 
+</p>
