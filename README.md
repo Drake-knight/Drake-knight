@@ -70,3 +70,7 @@
   <br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Drake-knight&theme=holi-theme">
 </p>
+
+
+## Badges
+<img src = "https://github-profile-trophy.vercel.app/?username=drake-knight">
