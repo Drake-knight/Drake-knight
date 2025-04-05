@@ -54,7 +54,7 @@
 ## Projects
 
 <p align="center">
-  <b>PulseAlert</b> - <i>Upcoming project in development</i>
+  <b>PulseAlert</b> - <i>Upcoming project in development(A website monitoring tool).</i>
 </p>
 
 <p align="center">
