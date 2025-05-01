@@ -1,4 +1,4 @@
-# Hi 👋, I'm 👨🏽‍💻 Vishal Jakhar
+# Hi, I'm Vishal Jakhar
 
 ## Connect with me:
 <p align="left">
@@ -60,9 +60,7 @@
 
 <h2 align="center"><u>My GitHub Stats</u></h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Drake-knight&count_private=true&show_icons=true&line_height=21&theme=github_dark">  
-  <br>
-  <br>
+
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Drake-knight&theme=holi-theme">
 </p>
 
