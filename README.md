@@ -45,18 +45,14 @@
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
 
 ## Projects
-
-<p align="center">
-  <b>PulseAlert</b> - <i>Upcoming project in development(A website monitoring tool).</i>
-</p>
-
-<p align="center">
-  <a href="https://animepulse.tech" target="_blank">
-    <img src="https://res.cloudinary.com/dglojeutd/image/upload/v1716218240/_de09b20c-2d3e-490c-9e98-648d42232147_vto4at.jpg" alt="AnimePulse" width="300"/>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://pulse-alert.vercel.app/" target="_blank">
+    <img src="https://res.cloudinary.com/dglojeutd/image/upload/v1746100601/ChatGPT_Image_May_1_2025_05_26_22_PM_snqphl.png" alt="PulseAlert" width="300" height="250"/>
   </a>
-  <br>
-  <b>AnimePulse</b>
-</p>
+  <a href="https://animepulse.tech" target="_blank">
+    <img src="https://res.cloudinary.com/dglojeutd/image/upload/v1716218240/_de09b20c-2d3e-490c-9e98-648d42232147_vto4at.jpg" alt="AnimePulse" width="300" height="250"/>
+  </a>
+</div>
 
 <h2 align="center"><u>My GitHub Stats</u></h2>
 <p align="center">
