@@ -66,4 +66,4 @@
 
 
 ## Badges
-<img src = "https://github-profile-trophy.vercel.app/?username=drake-knight&title=MultiLanguage,Commits,Repositories,Followers,PullRequest,Experience,Star&theme=dracula">
+<img src = "https://github-profile-trophy.vercel.app/?username=drake-knight&title=MultiLanguage,Commits,Repositories,PullRequest,Experience&theme=dracula">
