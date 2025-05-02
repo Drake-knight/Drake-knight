@@ -46,7 +46,7 @@
 
 ## Projects
 <div style="display: flex; justify-content: center; gap: 50px;">
-  <a href="https://pulse-alert.vercel.app/" target="_blank">
+  <a href="https://sentineleye.vercel.app/" target="_blank">
     <img src="https://res.cloudinary.com/dglojeutd/image/upload/sentinel.png" alt="SentinelEye" width="400" height="300"/>
   </a>
   <a href="https://animepulse.tech" target="_blank">
