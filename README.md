@@ -44,17 +44,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
 
-## Projects
-<div style="display: flex; justify-content: center; gap: 50px;">
-  <a href="https://sentineleye.vercel.app/" target="_blank">
-    <img src="https://res.cloudinary.com/dglojeutd/image/upload/sentinel.png" alt="SentinelEye" width="400" height="300"/>
-  </a>
-  <a href="https://animepulse.tech" target="_blank">
-    <img src="https://res.cloudinary.com/dglojeutd/image/upload/v1716218240/_de09b20c-2d3e-490c-9e98-648d42232147_vto4at.jpg" alt="AnimePulse" width="400" height="300"/>
-  </a>
-</div>
-
-<h2 align="center"><u>My GitHub Stats</u></h2>
+<h2 align="center"><u>GitHub Stats</u></h2>
 <p align="center">
 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Drake-knight&theme=holi-theme">
